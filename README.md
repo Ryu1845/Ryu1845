@@ -1,4 +1,5 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryu1845's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu1845&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ryu1845/Ryu1845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

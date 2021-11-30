@@ -3,11 +3,11 @@
 [![Ryu1845's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu1845&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-C            1 hr 32 mins    ████████▓░░░░░░░░░░░░░░░░   35.10 % 
-Emacs Lisp   1 hr 32 mins    ████████▓░░░░░░░░░░░░░░░░   34.99 % 
-Python       1 hr 9 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.18 % 
-TOML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+C            4 hrs 55 mins   ███████████████▓░░░░░░░░░   63.23 % 
+Emacs Lisp   1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Python       1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+TOML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 

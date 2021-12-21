@@ -3,8 +3,8 @@
 [![Ryu1845's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu1845&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Org      52 mins         ██████████████▒░░░░░░░░░░   57.54 % 
-Python   38 mins         ██████████▓░░░░░░░░░░░░░░   42.46 % 
+Org      52 mins         ██████████████████░░░░░░░   72.63 % 
+Python   19 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
 ```
 <!--END_SECTION:waka-->
 

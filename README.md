@@ -3,11 +3,11 @@
 [![Ryu1845's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu1845&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Go       1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.72 % 
-YAML     1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-HTML     1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-JSON     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Go     1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.98 % 
+HTML   1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.90 % 
+YAML   1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
+JSON   41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+XML    23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 <!--END_SECTION:waka-->
 

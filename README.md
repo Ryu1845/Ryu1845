@@ -2,13 +2,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ryu1845's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryu1845&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+
 ```text
-Other      21 hrs 20 mins  ████████████▒░░░░░░░░░░░░   49.36 % 
-Rust       20 hrs 21 mins  ███████████▓░░░░░░░░░░░░░   47.08 % 
-Python     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-TOML       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Markdown   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Rust         20 hrs 21 mins  ████████████▒░░░░░░░░░░░░   49.76 %
+School       19 hrs 20 mins  ███████████▓░░░░░░░░░░░░░   47.26 %
+Python       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TOML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--

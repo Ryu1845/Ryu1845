@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-School       10 hrs 10 mins  ████████▓░░░░░░░░░░░░░░░░   34.45 %
-Other        9 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.11 %
+Other        15 hrs 56 mins  ███████████▓░░░░░░░░░░░░░   47.13 %
 ```
 
 <!--END_SECTION:waka-->

@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       10 mins         █████████████████████▒░░░   85.14 %
-TypeScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Python   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

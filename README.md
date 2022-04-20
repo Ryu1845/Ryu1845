@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Processing   1 min           █████████████████████████   100.00 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        12 hrs 10 mins  █████████████████████████   99.83 %
 ```
 
 <!--END_SECTION:waka-->

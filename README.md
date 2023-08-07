@@ -16,10 +16,11 @@
   I'm Sofian from Belgium
   <br><br>
   - 🔭 I’m an undergraduate student at the University of Namur in Computer Science<br>
-  - 📚 I'm currently learning audio coding<br>
+  - 📚 I'm currently working on improving tortoise-tts<br>
   - ⚡ In my free time I read papers (among other things 😝)<br>
   - 📫 How to reach me: <a href="mailto:mejjoute.sofian@gmail.com">mejjoute.sofian@gmail.com</a><br>
   - 👯 I’m looking to collaborate on SotA TTS and VC
+  - ☕ If you enjoy my open source work, consider [sponsoring me](https://github.com/sponsors/Ryu1845)
 </p>
 
 ###

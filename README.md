@@ -14,13 +14,12 @@
 
 <p align="left">
   I'm Sofian from Belgium
-  <br><br>
+  <br>
   - 🔭 I’m an undergraduate student at the University of Namur in Computer Science<br>
-  - 📚 I'm currently working on improving tortoise-tts<br>
+  - 📚 I'm currently working on improving TTS<br>
   - ⚡ In my free time I read papers (among other things 😝)<br>
   - 📫 How to reach me: <a href="mailto:mejjoute.sofian@gmail.com">mejjoute.sofian@gmail.com</a><br>
-  - 👯 I’m looking to collaborate on SotA TTS and VC
-  - ☕ If you enjoy my open source work, consider [sponsoring me](https://github.com/sponsors/Ryu1845)
+  - ☕ If you enjoy my open source work, consider <a href="https://github.com/sponsors/Ryu1845">sponsoring me</a>
 </p>
 
 ###
@@ -31,7 +30,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />

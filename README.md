@@ -15,7 +15,7 @@
 <p align="left">
   I'm Sofian from Belgium
   <br>
-  - 🔭 I’m an undergraduate student at the University of Namur in Computer Science<br>
+  - 🔭 I’m a machine learning engineer<br>
   - 📚 I'm currently working on improving TTS<br>
   - ⚡ In my free time I read papers (among other things 😝)<br>
   - 📫 How to reach me: <a href="mailto:mejjoute.sofian@gmail.com">mejjoute.sofian@gmail.com</a><br>
@@ -33,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" width="52" alt="rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm logo"  />
 </div>
 
 ###
